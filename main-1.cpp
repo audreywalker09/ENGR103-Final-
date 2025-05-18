@@ -1,4 +1,14 @@
+//**************************************************************
+// Program: Assignemnt 4 (tip Calc)
+// Author: 
+// Date: 5/23/2025
+//****************************************************************
+
+
 #include <iostream>
+#include <sting> 
+#include <iomanip> // set precition 
+
 using namespace std;
 
 bool check_range(int, int, int);
