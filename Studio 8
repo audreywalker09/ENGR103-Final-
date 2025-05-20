@@ -1,0 +1,26 @@
+// part2 
+#include <iostream>
+#include <string>
+
+
+void get_sentence(std::string& s);
+
+int main(){
+        std::string sentence;
+
+        get_sentence(sentence);
+        std::cout << sentence << std::endl;
+
+        return 0;
+        }
+
+        void  std::string get_sentence(std::string& s){
+                std::cout <<"Enter a sentence:";
+                std::getline(std::cin, s);
+        return s;
+        }
+~
+~              
+
+
+// Part 1
