@@ -6,5 +6,5 @@
 
 int main(){
 
-std::cout << "Welcome to the financial calculator!\n\n\n";
+std::cout << "Welcome to the financial calculator!" << std::endl;
 
