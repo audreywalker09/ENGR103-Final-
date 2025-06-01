@@ -42,12 +42,7 @@ double mainTax;
 	std::cout << "Your estimated monthly payment is: $" << monthlyMortgage << "\n";
 
 	double totalPaid = (monthlyMortgage*mainLoan);
-	std::cout << "Total paid: $" << totalPaid << "\n" ;
-	std::cout << "Principal paid: $" << mortgagePrinciple << "\n" ;
-	
 	double additionalPaid = (totalPaid-mortgagePrinciple); 
-	std::cout << "Additional paid: $" << additionalPaid << "\n";
-	std::cout << "Thank you for using the mortgage calculator." << "\n";
 
 for (int year = 1; year <= 30; ++year) {
   // perform yearly updates
