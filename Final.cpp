@@ -19,7 +19,7 @@ std::cout << "Welcome to the financial calculator!" << std::endl;
 std::cout << "Would you like to calculate buying a home (B) or renting a home (R)? :";
 std::cin >> choice;
 
-if (choice = 'B'){
+if (choice == 'B'){
 
 else
 
