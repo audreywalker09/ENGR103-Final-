@@ -44,6 +44,13 @@ double mainTax;
 	double totalPaid = (monthlyMortgage*mainLoan);
 	double additionalPaid = (totalPaid-mortgagePrinciple); 
 
+
+	//one time purchase tax rate formula
+	double onetimetax = mainPrice * monthlyTax;
+	std::cout << "Here is your one time purchase tax: " <<std::endl;
+	std::cin >> onetimetax;
+	
+
 for (int year = 1; year <= 30; ++year) {
   // perform yearly updates
 for (int month = 1; month <= 12; ++month) {
