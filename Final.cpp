@@ -12,7 +12,20 @@
 #include <cmath>
 
 double mortgage(){
+for (int year = 1; year <= 30; ++year) {
+  // perform yearly updates
+for (int month = 1; month <= 12; ++month) {
+// Perform monthly updates
+}
+}
+}
 
+double renting(){
+for (int year = 1; year <= 30; ++year) {
+for (int month = 1; month <= 12; ++month) {
+// Perform monthly updates
+}
+}
 }
 
 int main(){
