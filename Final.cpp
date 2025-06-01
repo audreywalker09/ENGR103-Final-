@@ -11,6 +11,10 @@
 #include <ctime>
 #include <cmath>
 
+double mortgage(){
+
+}
+
 int main(){
 char choice;
 
@@ -20,6 +24,12 @@ std::cout << "Would you like to calculate buying a home (B) or renting a home (R
 std::cin >> choice;
 
 if (choice == 'B'){
+mortgage();
+}
+else {
 
-else
+}
+
+return 0;
+}
 
