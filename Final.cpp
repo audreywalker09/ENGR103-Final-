@@ -16,6 +16,7 @@ for (int year = 1; year <= 30; ++year) {
   // perform yearly updates
 for (int month = 1; month <= 12; ++month) {
 // Perform monthly updates
+  //lock the ability to switch to rent track until the end of the simulation
 }
 }
 }
