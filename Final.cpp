@@ -2,8 +2,9 @@
 //Names: Florence, Audrey, Brooke
 //Date: 6/1/2025
 //Input:
-//Output::
-//Description
+//Output:
+//Description: Calculate financial stuff
+//*********************************************************************************************************************************************************************************************************************
 #include <iostream>
 #include <string>
 #include <iomanip>
