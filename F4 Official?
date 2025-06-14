@@ -2,8 +2,8 @@
 // Name: Audrey Walker, Florence Peruzzo, Brooke Lee, & Cassandra Hart 
 // Date: June 12th, 2025
 // Assignemnt: ENGR 103 Final
-// Inputs: 
-// Outputs:
+// Inputs: annual income, home price, down payment ratio, loan term, mortgage rate, property tax rate, HOA cost, home appreciation rate, purchase tax rate, sale tax rate, starting rent, rent inflation, and ETF return rate. The user then chooses to rent or own
+// Outputs: Each month, the program updates employment status, bank balance, ETF balance, and home value if applicable. At year-end, it reports net worth, and after 30 years, it shows a star chart of annual net worth. 
 //*************************************************************************************************************************************************************************************
 
 
